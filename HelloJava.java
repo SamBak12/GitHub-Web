@@ -1,7 +1,7 @@
 public class HelloJava {
 	
 	public static void main(String[] args) {
-		// Hello Print //
+		// Hello Print line //
 		System.out.println("Hello World");
 	}
 
